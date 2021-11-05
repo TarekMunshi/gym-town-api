@@ -1,0 +1,138 @@
+[
+  {
+    "services": [
+      {
+        "id": 1,
+        "title": "BODY STRENGTH WORKOUT",
+        "shortDescription": "The upper body exercises focus on the      arms,chest and muscles of the upper back and shoulders.",
+        "price": 49.99,
+        "img": "https://i.ibb.co/NVt9LqY/7.jpg",
+        "star": 4.5,
+        "rating": "2,156",
+        "time": "06:00 AM - 07:00 AM",
+        "totalTime": "1hr",
+        "trainerName": "Robert Smith"
+      },
+      {
+        "id": 2,
+        "title": "CROSSFIT COURSES",
+        "shortDescription": "A form of high intensity interval training,CrossFit is a strength and conditioning workout.",
+        "price": 51.99,
+        "img": "https://i.ibb.co/Fg1LHpw/6.jpg",
+        "star": 4.7,
+        "rating": "3,156",
+        "time": "07:00 AM - 08:00 AM",
+        "totalTime": "1hr",
+        "trainerName": "Jhon Doe"
+      },
+      {
+        "id": 3,
+        "title": "MUSCLE GAINING",
+        "shortDescription": "Increasing muscle definition is really just a simple idea of increasing muscle mass and decreasing body fat.",
+        "price": 44.99,
+        "img": "https://i.ibb.co/Hz8FLx1/1.jpg",
+        "star": 4.3,
+        "rating": "1,156",
+        "time": "08:00 AM - 09:00 AM",
+        "totalTime": "1hr",
+        "trainerName": "Jhon Doe"
+      },
+      {
+        "id": 4,
+        "title": "HOME WORKOUT COURSES",
+        "shortDescription": "Exercising at home refers to physical workouts done indoors in the person.",
+        "price": 39.99,
+        "img": "https://i.ibb.co/187VJkT/4.jpg",
+        "star": 4.5,
+        "rating": "5,156",
+        "time": "06:00 PM - 07:00 PM",
+        "totalTime": "1hr",
+        "trainerName": "Julia Sohrez"
+      },
+      {
+        "id": 5,
+        "title": "GYMNASTIC SPORTS",
+        "shortDescription": "Gymnastics is a sport that includes exercises requiring balance, strength, coordination and endurance.",
+        "price": 35.99,
+        "img": "https://i.ibb.co/yhxtkgd/5.jpg",
+        "star": 4.5,
+        "rating": "5,156",
+        "time": "07:00 PM - 08:00 PM",
+        "totalTime": "1hr",
+        "trainerName": "Bernica B.Work"
+      },
+      {
+        "id": 6,
+        "title": "PERSONAL TRAINING",
+        "shortDescription": "A personal trainer is an individual who has earned a certification that demonstrates they have achieved a       level of competency.",
+        "price": 59.99,
+        "img": "https://i.ibb.co/NVt9LqY/7.jpg",
+        "star": 4.8,
+        "rating": "7,156",
+        "time": "08:00 PM - 09:00 PM",
+        "totalTime": "1hr",
+        "trainerName": "Robert Smith"
+      }
+    ],
+    "gallery": [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/Hz8FLx1/1.jpg"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/Zc6qc41/2.jpg"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/D4h8Czh/3.jpg"
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/187VJkT/4.jpg"
+      },
+      {
+        "id": 5,
+        "img": "https://i.ibb.co/yhxtkgd/5.jpg"
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/Fg1LHpw/6.jpg"
+      },
+      {
+        "id": 7,
+        "img": "https://i.ibb.co/NVt9LqY/7.jpg.jpg"
+      },
+      {
+        "id": 8,
+        "img": "https://i.ibb.co/xYJdK3z/8.jpg"
+      },
+      {
+        "id": 9,
+        "img": "https://i.ibb.co/27r1JTQ/9.jpg"
+      }
+    ],
+    "trainers": [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/CB85CvC/t1.jpg",
+        "trainerName": "Robert Smith"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/CWxfj1S/t2.jpg",
+        "trainerName": "Julia Sohrez"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/rbspTJ3/t3.jpg",
+        "trainerName": "Jhon Doe"
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/bXFrcMS/t4.jpg",
+        "trainerName": "Bernica B.Work"
+      }
+    ]
+  }
+]
